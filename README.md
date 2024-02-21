@@ -14,4 +14,4 @@
     <img align="center" alt="Css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
 
-### Sempre em busca de novos conhecimentos e tentando ampliar meus horizontes naprogramação e tecnologia!❤️
+### Sempre em busca de novos conhecimentos e tentando ampliar meus horizontes na programação e tecnologia!❤️
