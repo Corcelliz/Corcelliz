@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-da-silva-corcelli-7b5514220/) 
 
 ![Corcelliz GitHub stats](https://github-readme-stats.vercel.app/api?username=Corcelliz&show_icons=true&theme=transparent)
-
+<br/>
 ### Tecnologias que utilizo.
 
 <div style="display: block-inline">
