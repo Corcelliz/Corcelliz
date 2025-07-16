@@ -4,7 +4,7 @@
 [![Blog](https://img.shields.io/website?label=Corcelli-Portfolio.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://corcelliportfolio.netlify.app)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-da-silva-corcelli-7b5514220/) 
 
-![Corcelliz GitHub stats](https://github-readme-stats.vercel.app/api?username=Corcelliz&show_icons=true&theme=transparent)
+![Corcelliz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Corcelliz)
 <br/>
 ### Tecnologias que utilizo.
 
